@@ -1,0 +1,37 @@
+  
+.player_info{
+    border: black solid 5px;
+    border-radius: 10px;
+    width: 50%;
+    height: auto;
+    margin: 20px auto 0px auto;
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(208, 245, 252);
+}
+#player_points{
+    font-size: 40px;
+}
+#reset{
+
+    margin-left: 25rem;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 30px;
+    background-color:  rgb(0, 0, 0);
+    color: white;
+    border: black solid 5px;
+
+}
+#ButtonClick{
+
+    border: black solid 5px;
+    background-color:  rgb(0, 0, 0);
+    color: white;
+    border-radius: 30px;
+    padding: 0.3rem;
+}
+body{
+
+    background-color: rgb(203, 217, 219);
+}
